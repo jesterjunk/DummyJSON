@@ -1,3 +1,5 @@
+Cloned from https://github.com/Ovi/DummyJSON
+
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m793802954-7f701e85a9b8891f77662c72?label=json-server&style=for-the-badge&)](https://dummyjson.com/test) &ensp; [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m793802970-81b516d840f61c2d83245f81?label=img-server&style=for-the-badge&)](https://i.dummyjson.com/300x100/282828/?text=SERVER%20IS%20UP&fontFamily=ubuntu&fontSize=28)
 
 # DummyJSON
